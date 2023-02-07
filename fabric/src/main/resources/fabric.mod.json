@@ -17,7 +17,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "io.github.padlocks.EndermanOverhaul.fabric.EndermanOverhaulFabric"
+      "net.bonsaistudios.endermanoverhaul.fabric.EndermanOverhaulFabric"
     ]
   },
   "mixins": [
